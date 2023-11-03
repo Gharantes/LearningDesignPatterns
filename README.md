@@ -7,7 +7,7 @@ Repositório baseado na [playlist](https://www.youtube.com/playlist?list=PLbIBj8
 Que visam abstrair o processo de como objetos são criados na aplicação;
 
 - [ ] Abstract Factory
-- [ ] Factory Method
+- [x] Factory Method
 - [x] Builder
 - [x] Prototype
 - [x] Singleton
