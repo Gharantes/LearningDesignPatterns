@@ -1,4 +1,0 @@
-# LearningDesignPatterns
-
-qweiqwuheuiqwge
-b
