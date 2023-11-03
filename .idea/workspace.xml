@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/Builder.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/builder.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/classes/abstract-meal.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/classes/composed-meal.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/classes/main-dish-builder.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/classes/meals.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/classes/vegan-dish-builder.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/interfaces/meal-builder-protocol.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/interfaces/meal-composite-protocol.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/Prototype.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/js/constructor-functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/js/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/prototype-deep-copy/prototype-deep.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/prototype/prototype-shallow-copy/prototype-shallow.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -40,25 +36,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/guilherme/Shared/Guilherme/LearningDesignPatterns&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/guilherme/Shared/Guilherme/LearningDesignPatterns/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/guilherme/Shared/Guilherme/LearningDesignPatterns/src/creational/prototype",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/guilherme/Shared/Guilherme/LearningDesignPatterns/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/creational/prototype" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/creational/singleton" />
     </key>
@@ -73,7 +72,7 @@
       <updated>1699026479339</updated>
       <workItem from="1699026483857" duration="1673000" />
       <workItem from="1699028158513" duration="2180000" />
-      <workItem from="1699030357675" duration="5953000" />
+      <workItem from="1699030357675" duration="9222000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
@@ -93,5 +92,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value=".md: O que são padrões de projeto" />
     <option name="LAST_COMMIT_MESSAGE" value=".md: O que são padrões de projeto" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/creational/prototype/prototype-deep-copy/prototype-deep.ts</url>
+          <line>13</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
