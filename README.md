@@ -4,37 +4,37 @@
 ### de Criação (Creational)
 Que visam abstrair o processo de como objetos são criados na aplicação;
 
-- Abstract Factory
-- Factory Method
-- Builder
-- Prototype
-- Singleton
+- [ ] Abstract Factory
+- [ ] Factory Method
+- [ ] Builder
+- [ ] Prototype
+- [x] Singleton
 
 ### Estruturais (Structural)
 Que lidam com a composição de classes e objetos;
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Façade
-- Flyweight
-- Proxy
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Façade
+- [ ] Flyweight
+- [ ] Proxy
 
 ### Comportamentais (Behavioural)
 Que caracterizam como as classes e objetos interagem e distribuem responsabilidades na aplicação.
 
-- Interpreter
-- Template Method
-- Chain of Responsibility
-- Iterator
-- Command
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Visitor
+- [ ] Interpreter
+- [ ] Template Method
+- [ ] Chain of Responsibility
+- [ ] Iterator
+- [ ] Command
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Visitor
 
 ## Benefícios e Problemas
 
