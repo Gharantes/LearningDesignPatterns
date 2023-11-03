@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/Prototype.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/js/constructor-functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/js/object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/prototype-deep-copy/prototype-deep.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/prototype/prototype-shallow-copy/prototype-shallow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/Factory Method.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/client-code.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/factories/bicycle-factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/factories/car-factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/factories/vehicle-factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/main/random-vehicle-alg.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/utils/random-numbers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/vehicle/bicycle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/vehicle/car.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory-method/vehicle/vehicle.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +77,7 @@
       <updated>1699026479339</updated>
       <workItem from="1699026483857" duration="1673000" />
       <workItem from="1699028158513" duration="2180000" />
-      <workItem from="1699030357675" duration="9222000" />
+      <workItem from="1699030357675" duration="12124000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
