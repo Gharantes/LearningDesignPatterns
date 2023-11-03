@@ -20,7 +20,7 @@ Que lidam com a composição de classes e objetos;
 - Façade
 - Flyweight
 - Proxy
-aasdasd
+
 ### Comportamentais (Behavioural)
 Que caracterizam como as classes e objetos interagem e distribuem responsabilidades na aplicação.
 
