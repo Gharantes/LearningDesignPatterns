@@ -1,5 +1,7 @@
 Repositório baseado na [playlist](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
 
+Parei na Parte Prática de Flyweight (ep26)
+
 ## O que são padrões de projeto
 - São divididos em 3 categorias:
 
@@ -22,7 +24,7 @@ são compostos para formar estruturas maiores.
 - [x] Decorator
 - [x] Façade
 - [ ] Flyweight
-- [ ] Proxy
+- [x] Proxy
 
 ### Comportamentais (Behavioural)
 Que caracterizam como as classes e objetos interagem e distribuem responsabilidades na aplicação.

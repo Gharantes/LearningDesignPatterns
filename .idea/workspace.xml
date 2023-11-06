@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/structural/proxy/Proxy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/proxy/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/proxy/system-user/admin-user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/proxy/system-user/system-user-protocol.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/proxy/system-user/system-user-proxy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/flyweight/Flyweight.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -76,7 +72,7 @@
       <workItem from="1699028158513" duration="2180000" />
       <workItem from="1699030357675" duration="13156000" />
       <workItem from="1699286025245" duration="5609000" />
-      <workItem from="1699291954150" duration="9532000" />
+      <workItem from="1699291954150" duration="10205000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
