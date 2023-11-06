@@ -6,18 +6,19 @@ Repositório baseado na [playlist](https://www.youtube.com/playlist?list=PLbIBj8
 ### de Criação (Creational)
 Que visam abstrair o processo de como objetos são criados na aplicação;
 
-- [ ] Abstract Factory
+- [x] Abstract Factory
 - [x] Factory Method
 - [x] Builder
 - [x] Prototype
 - [x] Singleton
 
 ### Estruturais (Structural)
-Que lidam com a composição de classes e objetos;
+Que lidam com a composição de classes e objetos; se preocupam com a forma como os objetos
+são compostos para formar estruturas maiores.
 
 - [ ] Adapter
 - [ ] Bridge
-- [ ] Composite
+- [x] Composite
 - [ ] Decorator
 - [ ] Façade
 - [ ] Flyweight
