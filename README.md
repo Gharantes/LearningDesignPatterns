@@ -16,11 +16,11 @@ Que visam abstrair o processo de como objetos são criados na aplicação;
 Que lidam com a composição de classes e objetos; se preocupam com a forma como os objetos
 são compostos para formar estruturas maiores.
 
-- [ ] Adapter
-- [ ] Bridge
+- [x] Adapter
+- [x] Bridge
 - [x] Composite
-- [ ] Decorator
-- [ ] Façade
+- [x] Decorator
+- [x] Façade
 - [ ] Flyweight
 - [ ] Proxy
 

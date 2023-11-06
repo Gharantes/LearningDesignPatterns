@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/structural/bridge/Bridge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/bridge/device/device-implementation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/bridge/device/radio.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/bridge/device/television.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/bridge/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/bridge/remove-control/remote-control-with-volume.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/bridge/remove-control/remote-control.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/Decorator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/product/product-customization-decorator.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/product/product-decorator.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/product/product-protocol.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/product/product-stampt-decorator.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/product/shirt.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/facade/Facade.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/facade/builder-facade.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/facade/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/Proxy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/system-user/admin-user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/system-user/system-user-protocol.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/proxy/system-user/system-user-proxy.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +76,7 @@
       <workItem from="1699028158513" duration="2180000" />
       <workItem from="1699030357675" duration="13156000" />
       <workItem from="1699286025245" duration="5609000" />
-      <workItem from="1699291954150" duration="6561000" />
+      <workItem from="1699291954150" duration="9532000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
