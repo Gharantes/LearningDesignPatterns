@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/structural/composite/Composite.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/composite/product-composite.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/composite/validation-composite.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/Adapter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/validation/email-validator-class-adapter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/validation/email-validator-fn-adapter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/adapter/validation/email-validator-protocol.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +77,7 @@
       <workItem from="1699028158513" duration="2180000" />
       <workItem from="1699030357675" duration="13156000" />
       <workItem from="1699286025245" duration="5609000" />
+      <workItem from="1699291954150" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
