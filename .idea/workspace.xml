@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/behavioural/command/Command.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/command/command.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/command/light-intensity-command.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/command/light-power-command.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/command/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/command/smart-house-app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/command/smart-house-light.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/Strategy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/strategy/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/Memento.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/concrete-memento.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/image-editor-backup-manager.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/image-editor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/memento.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,7 @@
       <workItem from="1699286025245" duration="5609000" />
       <workItem from="1699291954150" duration="10251000" />
       <workItem from="1699302339513" duration="29000" />
-      <workItem from="1699372180123" duration="7264000" />
+      <workItem from="1699372180123" duration="9096000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
