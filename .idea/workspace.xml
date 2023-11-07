@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/Memento.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/concrete-memento.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/image-editor-backup-manager.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/image-editor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/memento/memento.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/state/shopping-order/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/state/shopping-order/order-approved.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/state/shopping-order/order-pending.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/state/shopping-order/order-rejected.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/state/shopping-order/shopping-order-state.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioural/state/shopping-order/shopping-order.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioural/state/State.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioural/state/State.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/guilherme/Shared/Guilherme/LearningDesignPatterns/src/creational/prototype",
+    "last_opened_file_path": "/home/guilherme/Shared/Guilherme/LearningDesignPatterns/src/behavioural/state/shopping-order",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,9 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/behavioural/state/shopping-order" />
       <recent name="$PROJECT_DIR$/src/creational/prototype" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/behavioural/state/shopping-order" />
       <recent name="$PROJECT_DIR$/src/creational/abstract-factory/vehicle" />
       <recent name="$PROJECT_DIR$/src/creational/abstract-factory/customer" />
       <recent name="$PROJECT_DIR$/src/creational/singleton" />
@@ -82,7 +85,7 @@
       <workItem from="1699286025245" duration="5609000" />
       <workItem from="1699291954150" duration="10251000" />
       <workItem from="1699302339513" duration="29000" />
-      <workItem from="1699372180123" duration="9096000" />
+      <workItem from="1699372180123" duration="11753000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
