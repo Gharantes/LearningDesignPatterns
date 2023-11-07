@@ -14,7 +14,7 @@ Visa economizar memória RAM devido ao grande número de objetos na aplicação.
   - Estado Intrínseco é o estado que geralmente não muda ou que muda muito pouco.
   - Estado Extrínseco é o estado que pode ser movido para fora do objeto por mudar frequentemente.
 
-Só deve ser usado se sua aplicação estiver com problemas de alto consumo de memória RAM.
+Só deve ser usado se a sua aplicação estiver com problemas de alto consumo de memória RAM.
 
 ### Exemplo? Não tenho certeza se tá certo.
 ```ts
