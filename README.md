@@ -23,22 +23,25 @@ são compostos para formar estruturas maiores.
 - [x] Composite
 - [x] Decorator
 - [x] Façade
-- [ ] Flyweight
+- [x] Flyweight
 - [x] Proxy
 
 ### Comportamentais (Behavioural)
-Que caracterizam como as classes e objetos interagem e distribuem responsabilidades na aplicação.
+Que caracterizam como as classes e objetos interagem e distribuem responsabilidades na aplicação;
+
+Se preocupam com algoritmos, a atribuição de responsabilidades entre objetos e os padrões de comunicação
+entre eles.
 
 - [ ] Interpreter
 - [ ] Template Method
 - [ ] Chain of Responsibility
 - [ ] Iterator
-- [ ] Command
+- [x] Command
 - [ ] Mediator
 - [ ] Memento
 - [ ] Observer
 - [ ] State
-- [ ] Strategy
+- [x] Strategy
 - [ ] Visitor
 
 ## Benefícios e Problemas
