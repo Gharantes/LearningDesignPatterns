@@ -38,9 +38,9 @@ entre eles.
 - [ ] Iterator
 - [x] Command
 - [ ] Mediator
-- [ ] Memento
+- [x] Memento
 - [ ] Observer
-- [ ] State
+- [x] State
 - [x] Strategy
 - [ ] Visitor
 
