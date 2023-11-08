@@ -3,6 +3,9 @@ Structural Design Pattern
 
 Proxy implementado é do tipo _virtual_.
 
+> Fornece um substituto ou espaço reservado a um outro objeto. Esse proxy controla o acesso ao objeto
+> original, permitindo fazer algo antes ou depois do pedido chegar ao objeto original
+
 ## Intenção Oficial
 É um padrão de projeto com a intenção de fornecer um substituto ou marcador de localização para outro
 objeto para controlar o acesso a esse objeto.

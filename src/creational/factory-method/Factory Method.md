@@ -1,6 +1,8 @@
 # Factory Method
 Creational Design Pattern
 
+> Criar objetos em uma superclasse, permitindo que subclasses alterem o tipo do objeto criado
+
 ## Intenção Oficial
 Definir uma interface para criar um objeto, mas deixar as subclasses decidires que classe
 instanciar. O Factory Method permite adiar a instanciação para as subclasses.

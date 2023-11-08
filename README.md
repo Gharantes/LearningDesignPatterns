@@ -1,7 +1,5 @@
 Repositório baseado na [playlist](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
 
-Parei na Parte Prática de Flyweight (ep26)
-
 ## O que são padrões de projeto
 - São divididos em 3 categorias:
 
@@ -34,10 +32,10 @@ entre eles.
 
 - [ ] Interpreter
 - [ ] Template Method
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 - [ ] Iterator
 - [x] Command
-- [ ] Mediator
+- [x] Mediator
 - [x] Memento
 - [ ] Observer
 - [x] State
