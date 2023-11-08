@@ -31,16 +31,16 @@ Se preocupam com algoritmos, a atribuição de responsabilidades entre objetos e
 entre eles.
 
 - [ ] Interpreter
-- [ ] Template Method
+- [x] Template Method
 - [x] Chain of Responsibility
-- [ ] Iterator
+- [x] Iterator
 - [x] Command
 - [x] Mediator
 - [x] Memento
-- [ ] Observer
+- [x] Observer
 - [x] State
 - [x] Strategy
-- [ ] Visitor
+- [x] Visitor
 
 ## Benefícios e Problemas
 
