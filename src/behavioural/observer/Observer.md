@@ -7,3 +7,19 @@ Behavioural Design Pattern
 ## Intenção Oficial
 Define uma dependência um para muitos entre objetos, de modo que, quando um objeto muda de estado,
 todos os seus dependentes são automaticamente notificados e atualizados.
+
+## Sobre o Observer
+Implementado com dois tipos de objetos: Objetos observáveis (Observable) e objetos observadores
+(Observer);
+
+Objetos observáveis (Observable) têm uma referência para todos os seus observadores. Isso permite 
+adicionar, remover e notificar observadores quando o seu estado muda.
+
+Objetos observadores (Observer) devem ter meios de receber notificação dos seus Observáveis. 
+Geralmente isso é feito com apenas um método.
+
+## Aplicabilidade
+Use o Observer quando...
+
+Você precisa notificar vários objetos sobre a mudança de estado de outro(s) 
+objeto(s).

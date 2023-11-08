@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8042ae55-8480-4c58-9686-c4198c1bbf64" name="Changes" comment=".md: O que são padrões de projeto">
-      <change afterPath="$PROJECT_DIR$/src/behavioural/observer/Observer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/Template Method.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/customer-data-parser-json.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/customer-data-parser-txt.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/customer-data-parser.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/customer-data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/files/customer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/files/customer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioural/template-method/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioural/observer/Observer.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioural/observer/Observer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +92,7 @@
       <workItem from="1699291954150" duration="10251000" />
       <workItem from="1699302339513" duration="29000" />
       <workItem from="1699372180123" duration="16234000" />
-      <workItem from="1699459002107" duration="3828000" />
+      <workItem from="1699459002107" duration="4196000" />
     </task>
     <task id="LOCAL-00001" summary=".md: O que são padrões de projeto">
       <option name="closed" value="true" />
