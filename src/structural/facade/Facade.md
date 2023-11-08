@@ -1,6 +1,9 @@
 # Facade
 Structural Design Pattern
 
+> fornece uma interface simplificada para uma biblioteca, um 
+> framework, ou qualquer conjunto complexo de classes.
+
 ## Intenção Oficial
 Tem a intenção de fornecer uma interface unificada para um conjunto de interfaces em um subsistema.
 Façade define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.

@@ -1,7 +1,9 @@
 # Factory Method
 Creational Design Pattern
 
-> Criar objetos em uma superclasse, permitindo que subclasses alterem o tipo do objeto criado
+> Fornece uma interface para criar objetos em uma superclasse, 
+> mas permite que as subclasses alterem o tipo de objetos que serão criados.
+
 
 ## Intenção Oficial
 Definir uma interface para criar um objeto, mas deixar as subclasses decidires que classe
